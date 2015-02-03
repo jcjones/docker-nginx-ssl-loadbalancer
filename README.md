@@ -1,5 +1,7 @@
 # nginx-ssl-loadbalancer
 
+[![Docker Repository on Quay.io](https://quay.io/repository/jcjones/nginx-ssl-loadbalancer/status "Docker Repository on Quay.io")](https://quay.io/repository/jcjones/nginx-ssl-loadbalancer)
+
 This container enables a TLS load balancer for application servers using nginx. This is based on the [Offical nginx container, 1.7](https://registry.hub.docker.com/_/nginx/)
 
 The official location of this container is https://quay.io/repository/jcjones/nginx-ssl-loadbalancer .
